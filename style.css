@@ -1,0 +1,73 @@
+/* body {
+    background-image: url(kirby.jpg);
+} */
+
+.body{
+background-color: deepskyblue;
+}
+
+.colors {
+    color: aqua;
+}
+
+.col-2{
+background-color: blueviolet;
+}
+
+.row{
+background-color: blueviolet;
+}
+
+.colors1{
+background-color: aquamarine;
+}
+
+.col-6{
+background-color: aquamarine;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: antiquewhite;
+}
+
+.fa-bars:before {
+    content: "\f0c9";
+    color:red;
+   width: 1000px;
+   height:1000px;
+}
+
+.row1 {
+background-color: white;
+}
+
+.sponsor {
+    text-align: center;
+}
+
+.ro2 {
+background-color: white;
+
+}
+
+.row-4{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,500%);
+}
+
+.placement {
+text-align: center;
+background-color: aquamarine;
+}
+
+.text {
+text-align: initial;
+}
+
+embed {
+text-align: center;
+}
