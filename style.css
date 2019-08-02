@@ -107,3 +107,7 @@ display: block;
 .container {
 display: inline;
 }
+
+.textcolorwhite {
+   color: white;
+}
