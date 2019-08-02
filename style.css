@@ -56,7 +56,7 @@ background-color: white;
     position:absolute;
     top:50%;
     left:50%;
-    transform: translate(-50%,450%);
+    transform: translate(-50%,1380%);
 }
 
 .placement {
@@ -74,4 +74,36 @@ text-align: center;
 
 .order {
 text-align: center;
+}
+
+.carousel-control-next {
+background-color: pink;
+opacity: 1;
+}
+
+.carousel-control-prev {
+background-color: pink;
+opacity: 1;
+}
+
+.video {
+opacity: .10;
+margin: 0 auto;
+display: block;
+}
+
+.button {
+    text-align: center;
+    display: block;
+}
+
+.bismuthimg {
+    width: 300px;
+    height: 200px;
+    border-style: dashed;
+    border-width: 10px;
+}
+
+.container {
+display: inline;
 }
